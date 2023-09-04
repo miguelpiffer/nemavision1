@@ -1,0 +1,13 @@
+train: /Users/miguelpiffer/Desktop/nemavision/train
+val: /Users/miguelpiffer/Desktop/nemavision/valid
+test: /Users/miguelpiffer/Desktop/nemavision/valid
+
+nc: 4
+names: ['Helicotylenchus', 'Meloidogyne', 'Pratylenchus', 'Radopholus']
+
+roboflow:
+  workspace: cirad-elloq
+  project: testi-xptgk
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cirad-elloq/testi-xptgk/dataset/6
